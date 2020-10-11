@@ -14,7 +14,7 @@ public class Main {
         System.out.println("2+2="+(2/*+2*/));
         System.out.println("String 1 \n\tString 2 \n\t\t String 3");
 
-
+        System.out.println();
 
 
 
